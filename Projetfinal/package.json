@@ -1,0 +1,12 @@
+{
+  "name": "projetfinal-bs3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend start",
+    "seed": "npm --prefix backend run seed",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
